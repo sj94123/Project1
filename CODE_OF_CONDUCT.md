@@ -65,6 +65,14 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+## Additonal team rules
+
+each team member must be a part of the group1 slack channel and be willing to activly
+participate in project related disscussion. It is expeded each group member should responed to
+queries in a timily manner. Each team member is encouraged and expeded to bring forth their own ideas
+and perspectives to creating project solutions. Each member of the team will adhear to the NC State
+Univeristy Studend code of condut.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
