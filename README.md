@@ -18,3 +18,13 @@ Video Link : https://youtu.be/tMoKtcqqByg
 
 - Please download Stack Overflow Data Dump from here (https://archive.org/download/stackexchange/softwareengineering.stackexchange.com.7z:) and unpack it into a folder ```Data_Dump```
 - Please open Stack_Overflow_Data_Dump_Preprocessing.ipynb in jupyter notebook and run the cells sequentially
+
+## Screenshots
+
+#### Topic Modeling Interactive Visualization
+
+![Topic Modeling Results](https://github.com/mrpudlo/Project1/blob/master/Screenshots/topic_modeling.png)
+
+#### Input Form for StackOverflow
+
+![Topic Modeling Results](https://github.com/mrpudlo/Project1/blob/master/Screenshots/question_input.png)
