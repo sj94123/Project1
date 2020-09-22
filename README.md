@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/288799494.svg)](https://zenodo.org/badge/latestdoi/288799494) 
+![GitHub contributors](https://img.shields.io/github/contributors/mrpudlo/Project1)
+![GitHub language count](https://img.shields.io/github/languages/count/sj94123/Project1)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/mrpudlo/Project1)
+![GitHub](https://img.shields.io/github/license/mrpudlo/Project1)
+
 # Project
 
 
